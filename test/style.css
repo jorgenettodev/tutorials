@@ -1,0 +1,19 @@
+.boxOne {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border: 10px solid darkgoldenrod;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: -200px;
+
+}
+
+.boxTwo {
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-top: 200px;
+
+}
